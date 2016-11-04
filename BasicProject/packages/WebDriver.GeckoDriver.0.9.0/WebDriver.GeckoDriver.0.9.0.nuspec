@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WebDriver.GeckoDriver</id>
+    <version>0.9.0</version>
+    <title>WebDriver.GeckoDriver</title>
+    <authors>James Laurence</authors>
+    <owners>James Laurence</owners>
+    <licenseUrl>http://nolicense/</licenseUrl>
+    <projectUrl>https://github.com/mozilla/geckodriver/releases</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows GeckoDriver to be used for your WebDriver tests. Just add this NuGet to your Test Library Project.</description>
+    <summary>Allows GeckoDriver to be used for your WebDriver tests.</summary>
+    <releaseNotes>Disable autofill of forms by default.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+</package>
